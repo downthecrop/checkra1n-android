@@ -1,4 +1,4 @@
-Download the One-tap checkra1n for Android app (checkra1n TWRP): https://downthecrop.xyz/blog/checkra1n-android-twrp-app/
+Download the One-tap checkra1n for Android app (checkra1n TWRP): https://downthecrop.xyz/blog/jailbreak-ios-device-with-android-phone-checkra1n-twrp-app/
 
 
 [![How to run checkra1n on Android to jailbreak iOS](https://downthecrop.xyz/blog/wp-content/uploads/2020/03/checkra1n-android-1-1024x576.png "How to run checkra1n on Android to jailbreak iOS – [Watch my video guide here!](https://www.youtube.com/watch?v=tc0GqDueUIE)")](https://www.youtube.com/watch?v=tc0GqDueUIE)
